@@ -164,7 +164,8 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Developed by
-**LinkedIn:** [Soumen Bhunia](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
+**Soumen Bhunia:** [LinkedIn ](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
+
 
 
 
