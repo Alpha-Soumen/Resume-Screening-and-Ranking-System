@@ -8,7 +8,7 @@ An intelligent web-based system that automatically screens and ranks resumes bas
 
 Modern recruitment involves sifting through dozens or hundreds of resumes, often manually. This system uses **TF-IDF vectorization** and **cosine similarity** to automate the resume shortlisting process.
 
-You simply:
+You simply: 
 
 * Paste a job description
 * Upload one or more resume PDFs
