@@ -161,12 +161,18 @@ streamlit run app.py
 * Export matched resumes to PDF or CSV
 * Deployment on Streamlit Cloud
 
+
+
+
 ---
 
 ## 👨‍💻 Developed by
 
-* **Soumen Bhunia**
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
+**Soumen Bhunia**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
+
+---
 
 
 
