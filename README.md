@@ -163,6 +163,11 @@ streamlit run app.py
 
 
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
@@ -173,6 +178,5 @@ streamlit run app.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
 
 ---
-
 
 
